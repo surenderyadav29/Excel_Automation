@@ -1,0 +1,9 @@
+Date,Region,Product,Units_Sold,Unit_Price,Cost_Price
+2026-06-01,North,Laptop,15,50000,35000
+2026-06-02,South,Mobile,30,15000,10000
+2026-06-03,East,Tablet,20,25000,18000
+2026-06-04,West,Laptop,12,52000,35000
+2026-06-05,North,Mobile,25,16000,10000
+2026-06-06,South,Tablet,18,24000,18000
+2026-06-07,East,Laptop,10,50000,35000
+2026-06-08,West,Mobile,40,14500,10000
